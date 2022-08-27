@@ -9,7 +9,7 @@
 * Open the terminal and run the following commands
 
 ```
-git clone https://github.com/killerclaws12/GrooveX-Music.git
+git clone https://github.com/killerclaws12/Lofi-Radio.git
 cd GrooveX-Music
 npm install
 ```
