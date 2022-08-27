@@ -14,3 +14,20 @@ cd GrooveX-Music
 npm install
 ```
 
+* Wait for all the dependencies to be installed
+* Rename `.env.example` to `.env` and fill the values
+* Optionally edit `config.js`
+* Type `npm run start` to start the bot
+
+### Features
+
+Lofi Radio is a feature-rich lofi hiphop discord bot with new features constantly being updated! Current features include
+
+* **Play**: Joins your voice channel and starts playing 24/7.
+* **Pause**: Pause the music.
+* **Stop**: Leaves the voice channel.
+* **Song**: Shows the current playing song.
+* **Volume**: Shows or changes the current volume.
+* **247**: Play song 24/7 in VC.
+* **And much more commands!**
+
