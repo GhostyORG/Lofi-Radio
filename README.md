@@ -31,3 +31,6 @@ Lofi Radio is a feature-rich lofi hiphop discord bot with new features constantl
 * **247**: Play song 24/7 in VC.
 * **And much more commands!**
 
+### 🤝 Contributing
+
+* Feel free to [Fork](https://github.com/killerclaws12/GrooveX-Music/fork) this repository, create a feature branch and submit a pull request
