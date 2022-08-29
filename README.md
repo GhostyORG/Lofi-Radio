@@ -10,7 +10,7 @@
 
 ```
 git clone https://github.com/killerclaws12/Lofi-Radio.git
-cd GrooveX-Music
+cd Lofi-Radio
 npm install
 ```
 
